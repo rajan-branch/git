@@ -1,0 +1,21 @@
+file1 =github
+git clone https://github.com/rajan-branch/git.git
+
+cd git
+copy created 
+i) git copy
+ii)created working copy 
+
+after create a new file=> it will show u symbol =>working folder  ==untracted (git.status) not yet moved to git copy
+
+git add test3.txt => it is used to move working file copy to stanging area (place)
+
+
+git commit -m "test3 file commited" =>it is used to move stanging area to git copy
+
+
+to push broswer
+
+git push origin main
+
+insert ==> add ==> commit ==> push==//
